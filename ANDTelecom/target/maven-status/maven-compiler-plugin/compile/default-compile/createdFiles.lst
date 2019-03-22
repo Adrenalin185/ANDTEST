@@ -1,0 +1,6 @@
+telecom\entity\Customer.class
+telecom\controller\PhoneNumberController.class
+telecom\Application.class
+telecom\repository\CustomerRepository.class
+telecom\entity\PhoneNumber.class
+telecom\repository\PhoneNumberRepository.class
